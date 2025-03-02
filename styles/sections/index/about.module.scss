@@ -108,6 +108,12 @@
 				border-radius: 2rem;
 			}
 
+			div {
+			background: var(--background-dim2);
+			border-radius: 2rem;
+			height: 100%;
+			}
+
 			&.technicalSvg {
 				> span {
 					position: relative !important;

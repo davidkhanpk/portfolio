@@ -59,6 +59,5 @@ export async function getServerSideProps({ res }) {
 	}
 
 	if (!repos || !user) { return { notFound: true,	} }
-
 	return { props: { repos, user } }
 }

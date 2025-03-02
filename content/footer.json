@@ -1,50 +1,37 @@
 {
 	"acknowledgments": [
 		{ 
-			"person": "Jihad Hassan - Marketing Director",
-			"link": "",
-			"note": "Thank you for all the advice and feedback."
+			"person": "Kamran Mustafa - Elixir Technologies",
+			"link": "https://www.linkedin.com/in/syed-kamran-mustafa-96529759",
+			"note": "Thank you for all the advice and mentorship."
 		},
 		{ 
-			"person": "Colorpong - Artist",
-			"link": "ttps://www.youworkforthem.com/designer/536/colorpong?aff=1115",
-			"note": "Checkout their amazing vector illustrations."
+			"person": "Rizwan Salik - Elixir Technologies",
+			"link": "https://www.linkedin.com/in/rizwan-salik/",
+			"note": "You are the best person to work with."
 		},
 		{ 
-			"person": "Brittany Chiang - Software Engineer",
-			"link": "https://brittanychiang.com/",
-			"note": "A major inspiration to create an open source theme."
+			"person": "Ali Raza - OneScreen",
+			"link": "#",
+			"note": "My earlydays mentor and guider"
 		},
 		{ 
 			"person": "Vercel - Platform",
 			"link": "https://vercel.com/docs",
-			"note": "Host your own Next.js project for free!"
+			"note": "Thanks for making my portfolio visible to whole world for free!"
 		}
 	],
 
 	"links": [
-		{ 
-			"person": "YWFT Creative Marketplace",
-			"link": "https://www.youworkforthem.com/?aff=1115",
-			"note": "Best in class creative assets."
-		}
 	],
 
 	"social": [
 		{
-			"url": "https://medium.com/@--andrewnelson",
-			"icon": "medium"
-		},
-		{
-			"url": "https://dev.to/andrewnelson",
-			"icon": "dev"
-		},
-		{
-			"url": "https://www.linkedin.com/in/--andrewnelson/",
+			"url": "https://www.linkedin.com/in/daoudalikhan/",
 			"icon": "linkedin"
 		},
 		{
-			"url": "https://github.com/atlamors",
+			"url": "https://github.com/davidkhanpk",
 			"icon": "github"
 		}
 	]

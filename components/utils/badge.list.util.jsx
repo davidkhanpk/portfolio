@@ -91,7 +91,7 @@ function IconModule({ iconKey, iconType, color }) {
 		case 'fas':
 			return ( <Icon icon={[ iconType, iconKey ]} /> )
 		case 'devicon':
-			return ( <i className={`devicon-${iconKey}-plain ${colored}`} /> )
+			return ( <i className={`devicon-${iconKey}-plain devicon-${iconKey}-original ${colored}`} /> )
 		default:
 			return ( '' )
 	}
