@@ -39,11 +39,11 @@ export default function About() {
 					</div>
 					<div className={about.copy} >
 						<CopyBlock 
-							title="Softskills that pay the bills"
+							title="Soft Skills That Drive Success"
 							containerClass={about.container}
 							iconClass={about.icon}
 							icon={[ 'fat', 'ear-listen' ]}
-							copy="In addition to my design and technical expertise—I also have strong leadership, time management, and multitasking skills—honed through my experience as a business owner / managing partner, husband, and father of two. Outside of work, I enjoy staying active through sports such as hockey and snowboarding. I am confident in my ability to bring passion and value to any project."
+							copy="Beyond my technical expertise as a developer with 7 years of experience, I bring strong problem-solving, leadership, and adaptability skills—refined through years of working on complex projects, mentoring teams, and collaborating with cross-functional stakeholders. My ability to manage time effectively and juggle multiple priorities has been instrumental in delivering high-quality solutions. Outside of coding, I enjoy staying engaged with the tech community, continuously learning new technologies, and exploring creative problem-solving approaches. I am confident in my ability to contribute passion, innovation, and value to any development project."
 						/>
 						<BadgesBlock 
 							title="Reasearch and planning" 
@@ -52,7 +52,7 @@ export default function About() {
 							fullContainer="fullContainer"
 							block="methods" 
 							icon="fingerprint"
-							copy="One of my favorite aspects of creating is planning the architecture of a project. From Design Systems to Brand Strategy—I enjoy working with the many touch points of user experience."
+							copy="One of my favorite aspects of development is architecting scalable and efficient solutions. From designing robust backend systems to optimizing frontend performance—I enjoy working across the full stack to create seamless and impactful user experiences."
 							//invertedColor="invertedColor"
 							headerIcon={`${about.icon}`}
 						/>
